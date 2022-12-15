@@ -1,0 +1,86 @@
+{
+    
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            140
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "workbench.colorTheme": "Default High Contrast",
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.fontLigatures": "'zero', 'ss02', 'ss03', 'ss04', 'ss05', 'calt'",
+    "editor.fontWeight": "normal",
+    "dart.openDevTools": "flutter",
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "Zowe-DS-Persistent": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": []
+    },
+    "Zowe-USS-Persistent": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": []
+    },
+    "Zowe-Jobs-Persistent": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": []
+    },
+    "zowe.ds.history": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": [],
+        "searchHistory": []
+    },
+    "zowe.uss.history": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": [],
+        "searchHistory": []
+    },
+    "zowe.jobs.history": {
+        "persistence": true,
+        "favorites": [],
+        "history": [],
+        "sessions": [],
+        "fileHistory": [],
+        "searchHistory": []
+    },
+    "zowe.settings.version": 2,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 13,
+    "workbench.iconTheme": "vscode-icons",
+    "tabnine.experimentalAutoImports": true,
+    "code-runner.runInTerminal": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+}
